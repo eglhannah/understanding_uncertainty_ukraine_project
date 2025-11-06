@@ -1,0 +1,68 @@
+List of Infrastructure Types (and count): 
+Industrial/Business/Enterprise facilities     5056
+Education facility (school, etc.)             5021
+Electricity supply system                     3016
+Government facilities                         2060
+Gas supply system                             1968
+Cultural facilities (museum, theater etc.)    1210
+Health facility (hospital, health clinic)     1169
+Warehouse                                      834
+Agricultural facilities                        805
+Other                                          724
+Railway                                        556
+Water supply system                            280
+Religious facilities                           277
+Road / Highway                                 245
+Heating and water facility                     244
+Fuel depot                                     203
+Telecommunications                             171
+Bridge                                         146
+Power plant                                     74
+Harbor                                          67
+Chemical storage unit                           53
+Oil depot                                       51
+Airport                                         25
+Nuclear unit                                     7
+Aircraft repair plant                            3
+
+
+
+
+
+
+
+Proposed Categories
+
+Business
+  Industrial/Business/Enterprise facilities
+  Warehouse
+
+Civillian
+  Education facility (school, etc.)
+  Cultural facilities (museum, theater etc.)
+  Health facility (hospital, health clinic)
+  Religious facilities
+  Telecommunications
+
+Power & Fuel
+  Oil depot
+  Chemical storage unit 
+  Fuel depot
+  Gas supply system
+  Electricity supply system
+  Nuclear unit
+
+Resources
+  Agricultural facilities
+  Water supply system
+  Heating and water facility 
+
+Transportation
+  Aircraft repair plant
+  Airport
+  Harbor
+  Bridge
+  Railway
+  Road / Highway
+
+Other
